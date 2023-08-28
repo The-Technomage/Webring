@@ -24,8 +24,8 @@ class WebRing extends HTMLElement {
 				if (nextSiteIndex > sites.length) nextSiteIndex = 0;
 
 				const cp = `
-				<img src="https://lostweb.neocities.org/webring.gif" usemap="#workmap">
-				<map name="workmap">
+				<img src="https://lostweb.neocities.org/assets/webring.gif" usemap="#ringmap">
+				<map name="ringmap">
 				<area shape="rect" coords="0,0,20,31" href="${sites[prevSiteIndex].url}">
 				<area shape="rect" coords="31,0,57,31" href="https://lostweb.neocities.org/webring/webring">
 				<area shape="rect" coords="68,08,88,31" href="${sites[nextSiteIndex].url}">
