@@ -1,0 +1,22 @@
+[
+  {
+    "url": "Site 1 URL",
+    "owner": "Site 1 Owner",
+    "description": "Site 1 Description"
+  },
+  {
+    "url": "Site 2 URL",
+    "owner": "Site 2 Owner",
+    "description": "Site 2 Description"
+  },
+  {
+    "url": "Site 3 URL",
+    "owner": "Site 3 Owner",
+    "description": "Site 3 Description"
+  },
+  {
+    "url": "Site 4 URL",
+    "owner": "Site 4 Owner",
+    "description": "Site 4 Description"
+  }
+]
