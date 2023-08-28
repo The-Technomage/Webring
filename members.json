@@ -1,22 +1,22 @@
 [
   {
-    "url": "Site 1 URL",
-    "title": "Site 1 Owner",
+    "url": "https://css-tricks.com",
+    "title": "CSS Tricks (1)",
     "description": "Site 1 Description"
   },
   {
-    "url": "Site 2 URL",
-    "title": "Site 2 Title",
+    "url": "https://sadgrl.online/webmastery/webmaster-links",
+    "title": "Sadgrl (2)",
     "description": "Site 2 Description"
   },
   {
-    "url": "Site 3 URL",
-    "title": "Site 3 Title",
+    "url": "http://lu.tiny-universes.net/index2.html",
+    "title": "Lulu (3)",
     "description": "Site 3 Description"
   },
   {
-    "url": "Site 4 URL",
-    "title": "Site 4 Title",
+    "url": "https://devils.neocities.org",
+    "title": "Devils (4)",
     "description": "Site 4 Description"
   }
 ]
